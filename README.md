@@ -13,9 +13,10 @@
 
 ## 🔥 실행 결과 🔥
 
-![image](https://github.com/Skyllerrr/Weather-widget/assets/93968241/4a58c734-6282-41de-9200-49f9b3f6360e)
+![Weather-Widget 1번 영상](https://github.com/Skyllerrr/Weather-widget/assets/93968241/1e8210ad-88b8-487e-9a95-2c95b6f6a5e8)
 
-> ### 서비스를 실행하게 되면, 기본값으로 **서울의 날씨와 기온**을 검색하여 알 수 있다.
+
+> ### 서비스를 실행하게 되면, 기본값은 **서울 지역**으로 지정되어있다. <br><br> 검색 기능이 활성화 될 때의 애니메이션 효과를 보여준다.
 
 <br>
 <br>
