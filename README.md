@@ -21,6 +21,6 @@
 <br>
 <br>
 
-![image](https://github.com/Skyllerrr/Weather-widget/assets/93968241/5f28a047-7fa9-4212-812e-23a31dcad549)
+https://github.com/Skyllerrr/Weather-widget/assets/93968241/815d1ff9-c265-40fa-8f13-585c2b9ed338
 
 > ### 예를 들어, 부산 지역이 궁금하다면 이렇게 **부산의 현재부터 3일 뒤의 날씨와 기온**까지 검색하여 알 수 있다.
